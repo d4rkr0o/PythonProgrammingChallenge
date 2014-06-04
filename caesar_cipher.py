@@ -71,8 +71,7 @@ class Caesar:
 		elif(ans2 == "N"):
 			print "Ok the shift is 3\n"
 			pass
+		else:
+			return 3
 			
-
-	
-
 cesar=Caesar()
